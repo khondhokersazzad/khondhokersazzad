@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Sazzad 👋
 
-<!--
-**khondhokersazzad/khondhokersazzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend & MERN Stack Developer  
+Passionate about building clean, responsive web applications.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- HTML, CSS, JavaScript
+- React, Tailwind CSS
+- Node.js, MongoDB
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Advanced JavaScript
+- React & MERN Stack
+- Interview Preparation
+
+### 📫 Contact
+- GitHub: https://github.com/khondhokersazzad
+- LinkedIn: (add later)
