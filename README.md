@@ -71,13 +71,9 @@ Currently, I am strengthening my JavaScript and React fundamentals while prepari
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khondhokersazzad&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khondhokersazzad&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://streak-stats.demolab.com?user=khondhokersazzad&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=khondhokersazzad&theme=tokyonight" />
-</p>
 
 ---
 
