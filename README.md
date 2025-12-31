@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="[(https://i.ibb.co.com/4ZHC7C9h/Blue-and-Black-Modern-Engineer-Linked-In-Banner.png)]" alt="GitHub Banner" width="100%" />
+  <img src="https://i.ibb.co/4ZHC7C9h/Blue-and-Black-Modern-Engineer-Linked-In-Banner.png" alt="GitHub Banner" width="100%" />
 </p>
 
 <!-- ===================== NAME & DESIGNATION ===================== -->
