@@ -57,10 +57,10 @@ Currently, I am strengthening my JavaScript and React fundamentals while prepari
   <a href="https://github.com/khondhokersazzad">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/khondhoker-sazzad">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:khondhokersazzadofficial@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" />
   </a>
 </p>
