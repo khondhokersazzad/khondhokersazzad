@@ -1,10 +1,10 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://i.ibb.co/2kZ6mXk/github-banner.png" alt="GitHub Banner" width="100%" />
+  <img src="[(https://i.ibb.co.com/4ZHC7C9h/Blue-and-Black-Modern-Engineer-Linked-In-Banner.png)]" alt="GitHub Banner" width="100%" />
 </p>
 
 <!-- ===================== NAME & DESIGNATION ===================== -->
-<h1 align="center">Khondhoker Sazzad</h1>
+<h1 align="center">Khondhoker Sazzadul Kadir</h1>
 <h3 align="center">Frontend & MERN Stack Web Developer</h3>
 
 ---
@@ -21,8 +21,10 @@ Currently, I am strengthening my JavaScript and React fundamentals while prepari
 <!-- ===================== CURRENT ACTIVITIES ===================== -->
 ## 🚀 Current Activities
 
-- Exploring **Next.js** and modern React patterns  
-- Working on a **tourism website** project  
+- Exploring **Next.js** and modern React patterns
+- Exploring vibe coding with Cursor Ai.
+- Learning TypeScript
+- Working on a **shop website** project  
 - Improving **DSA & interview preparation**  
 - Practicing real-world frontend projects  
 
